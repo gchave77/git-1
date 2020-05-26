@@ -1,0 +1,5 @@
+Create a new file using the command line called notes.txt
+Add some text to the notes.txt file.
+1. Add 3 additional lorem-ipsum paragraphs into the notes.txt file which should now be on the text-branch.
+2. Add 3 additional lorem-ipsum paragraphs into the notes.txt file which should now be on the text-branch.
+3. Add 3 additional lorem-ipsum paragraphs into the notes.txt file which should now be on the text-branch.
